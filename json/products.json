@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Vintage Leather Backpack",
+    "price": 89.99,
+    "description": "A stylish and durable leather backpack for everyday use.",
+    "images": [
+      "https://picsum.photos/seed/backpack1/600/400",
+      "https://picsum.photos/seed/backpack2/600/400",
+      "https://picsum.photos/seed/backpack3/600/400"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Modern Wooden Chair",
+    "price": 149.99,
+    "description": "Elegant wooden chair with a modern design for your home.",
+    "images": [
+      "https://picsum.photos/seed/chair1/600/400",
+      "https://picsum.photos/seed/chair2/600/400",
+      "https://picsum.photos/seed/chair3/600/400"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Minimalist Wristwatch",
+    "price": 59.99,
+    "description": "A sleek minimalist watch with leather straps.",
+    "images": [
+      "https://picsum.photos/seed/watch1/600/400",
+      "https://picsum.photos/seed/watch2/600/400",
+      "https://picsum.photos/seed/watch3/600/400"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Cozy Wool Sweater",
+    "price": 79.99,
+    "description": "Stay warm with this comfortable wool sweater.",
+    "images": [
+      "https://picsum.photos/seed/sweater1/600/400",
+      "https://picsum.photos/seed/sweater2/600/400",
+      "https://picsum.photos/seed/sweater3/600/400"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Classic Sunglasses",
+    "price": 39.99,
+    "description": "Stylish sunglasses to protect your eyes in summer.",
+    "images": [
+      "https://picsum.photos/seed/sunglasses1/600/400",
+      "https://picsum.photos/seed/sunglasses2/600/400",
+      "https://picsum.photos/seed/sunglasses3/600/400"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Portable Bluetooth Speaker",
+    "price": 99.99,
+    "description": "Enjoy music on the go with rich sound quality.",
+    "images": [
+      "https://picsum.photos/seed/speaker1/600/400",
+      "https://picsum.photos/seed/speaker2/600/400",
+      "https://picsum.photos/seed/speaker3/600/400"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ceramic Coffee Mug",
+    "price": 14.99,
+    "description": "Perfect mug for your morning coffee or tea.",
+    "images": [
+      "https://picsum.photos/seed/mug1/600/400",
+      "https://picsum.photos/seed/mug2/600/400",
+      "https://picsum.photos/seed/mug3/600/400"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Elegant Table Lamp",
+    "price": 64.99,
+    "description": "Modern table lamp to brighten your space.",
+    "images": [
+      "https://picsum.photos/seed/lamp1/600/400",
+      "https://picsum.photos/seed/lamp2/600/400",
+      "https://picsum.photos/seed/lamp3/600/400"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Leather Wallet",
+    "price": 49.99,
+    "description": "Compact and durable wallet made from genuine leather.",
+    "images": [
+      "https://picsum.photos/seed/wallet1/600/400",
+      "https://picsum.photos/seed/wallet2/600/400",
+      "https://picsum.photos/seed/wallet3/600/400"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Running Shoes",
+    "price": 89.99,
+    "description": "Lightweight shoes perfect for running and workouts.",
+    "images": [
+      "https://picsum.photos/seed/shoes1/600/400",
+      "https://picsum.photos/seed/shoes2/600/400",
+      "https://picsum.photos/seed/shoes3/600/400"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Cotton Bed Sheets",
+    "price": 59.99,
+    "description": "Soft and breathable cotton bed sheets for a cozy sleep.",
+    "images": [
+      "https://picsum.photos/seed/bedsheets1/600/400",
+      "https://picsum.photos/seed/bedsheets2/600/400",
+      "https://picsum.photos/seed/bedsheets3/600/400"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Gaming Headset",
+    "price": 119.99,
+    "description": "High-quality sound and comfortable fit for gamers.",
+    "images": [
+      "https://picsum.photos/seed/headset1/600/400",
+      "https://picsum.photos/seed/headset2/600/400",
+      "https://picsum.photos/seed/headset3/600/400"
+    ]
+  }
+]
